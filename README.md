@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repo de prueba de Henry Modulo 2
+Esta es una prueba de como crear un repo y clonarlo desde github a la compu.
